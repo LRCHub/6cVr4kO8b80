@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "闇夜のKomachi Vampire",
+  "base_artist": "She is Legend",
+  "createdAt": "2026-02-18T12:50:51.750924Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "闇夜のKomachi Vampire",
+      "artist": "She is Legend",
+      "has_synced": false,
+      "path": "select/pl_01_闇夜のKomachi_Vampire_She_is_Legend.txt"
+    }
+  ]
+}
